@@ -1,0 +1,28 @@
+body {
+	background-color: #000000;
+	margin: 50px;
+}
+h1 {
+	color: #880808;
+	text-align: center;
+	font-size: 75px;
+}
+h2 {
+	color: red;
+	text-align: center;
+	margin: 20px;
+	font-size: 40px;
+}
+h3 {
+	color: #696969;
+	width: 80%;
+	margin: 40px;
+	font-size: 20px;
+}
+img {
+	float: left;
+	margin: 30px;
+}
+div {
+	float: left;
+}
