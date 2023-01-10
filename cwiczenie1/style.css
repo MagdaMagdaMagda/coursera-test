@@ -1,0 +1,15 @@
+h1 {
+	color: red;
+}
+.div1 {
+	background-color: yellow;
+	width: 200px;
+	height: 200px;
+	border: solid black;
+}
+.div2 {
+	background-color: blue;
+	width: 100px;
+	height: 100px;
+	margin: 49px;
+}
