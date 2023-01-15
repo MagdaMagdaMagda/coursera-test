@@ -1,0 +1,14 @@
+a:link, a:visited {
+	color: blue;
+	background-color: yellow;
+	padding: 12px;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+}
+p {
+	font-size: 100px;
+}
+img {
+	width: 400px;
+}
