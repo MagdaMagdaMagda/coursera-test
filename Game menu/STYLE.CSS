@@ -1,0 +1,53 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: black;
+	justify-content: center;
+	font-family: 'Source Code Pro', monospace;
+	text-transform: uppercase;
+}
+
+.background {
+	width: 400px;
+	height: 500px;
+	background-color: #131313;
+	border: 2px solid blue;
+	margin: 0 auto;
+	margin-top: 100px;
+}
+
+ul {
+	justify-content: center;
+	padding: 0;
+}
+
+li {
+	list-style-type: none;
+	color: blue;
+	font-size: 40px;
+	margin: 10px;
+	padding: 10px;
+	font-size: 25px;
+}
+
+.background2 {
+	background-color: black;
+	padding: 10px;
+	margin: 15px 15px;
+	text-align: center;
+	border: 2px solid blue;
+}
+
+.background__menu {
+	text-align: center;
+}
+
+.menu {
+	color: black;
+	font-size: 55px;
+	margin: 0 auto;
+	padding: 0 auto;
+	font-weight: bold;
+}

@@ -1,0 +1,29 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	font-size: 250px;
+	font-family: 'Bebas Neue', cursive;
+	text-align: center;
+	vertical-align: center;
+	background-image: linear-gradient(90deg, rgba(255,0,0,1) 22%, rgba(226,82,5,1) 32%, rgba(239,252,12,1) 44%, rgba(54,246,23,1) 55%, rgba(36,230,221,1) 67%, rgba(119,0,247,1) 78%);
+	background-size: 100%;
+	-webkit-background-clip: text;
+	-moz-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-moz-text-fill-color: transparent;
+}
+
+body {
+	background-color: black;
+}
+
+div {
+	display: inline;
+}
+
+div:hover {
+	background-color: black;
+	cursor: pointer;
+}
